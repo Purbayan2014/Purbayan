@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Cryptography,Network-security and Malware analysis
 - 🌱 I’m currently learning Assembly
-- 👯 I’m looking to collaborate on 
+- 👯 I’m looking to collaborate on Authentication and Malware analysis
 - 🤔 I’m looking for help with [Hashing-Encryption](https://github.com/Purbayan2014/Hashing-Encryption)
 - 💬 Ask me about Cybersecurity,Machine learning and Cryptography
 - 📫 How to reach me: <p align="center">
