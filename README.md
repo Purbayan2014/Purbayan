@@ -1,10 +1,7 @@
-<p align=”center”>
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”Purbayan Majumder”>
-</p>
 
 
 
-### Hola, I'm Purbayan Majumder ! 👋
+### Hola, I'm Purbayan  ! 👋
 
 
 - 🔭 I’m currently working on Cryptography,Network-security and Malware analysis
@@ -41,6 +38,8 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Languages used 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -53,8 +52,12 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Purbayan2014&theme=synthwave)](https://github.com/Purbayan2014)
 
-[![Purbayan's Top github stats](https://github-readme-stats.vercel.app/api?username=Purbayan2014)](https://github.com/Purbayan2014)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Purbayan2014&layout=compact)](https://github.com/Purbayan2014)
+[![Purbayan's Top github stats](https://github-readme-stats.vercel.app/api?username=Purbayan2014&theme=blue-green)](https://github.com/Purbayan2014)
+
+
+
+
 
 
