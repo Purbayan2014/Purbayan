@@ -1,7 +1,9 @@
 
 
 
-### Hola, I'm Purbayan  ! 👋
+### Hola, I'm Purbayan  ! 👋 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Purbayan2014&label=Profile%20views&color=0e75b6&style=flat" alt="saeb-ai" /> </p>
 
 
 - 🔭 I’m currently working on Cryptography,Network-security and Malware analysis
@@ -10,6 +12,9 @@
 - 🤔 I’m looking for help with [Encryption](https://github.com/Purbayan2014/Hashing-Encryption) and [Exploitation Development](https://github.com/Purbayan2014/Exploitation-Deveploment)
 - 💬 Ask me about Cybersecurity,Machine learning and Cryptography
 - 📫 How to reach me:  
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
 <p align="center"> <a href="https://www.linkedin.com/in/purbayan-majumder-2799631a3/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Purbayan" /></a> </p>  <p align="center"> <a href="https://twitter.com/XNS_07" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Purbayan" /></a> </p>
   
 <p align="left"> <a href="https://twitter.com/XNS_07" target="blank"><img src="https://img.shields.io/twitter/follow/XNS_07?logo=twitter&style=for-the-badge" alt="Purbayan" /></a> </p>
