@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Cryptography,Network-security and Malware analysis
 - 🌱 I’m currently learning Assembly
 - 👯 I’m looking to collaborate on Authentication and Malware analysis
-- 🤔 I’m looking for help with [Hashing-Encryption](https://github.com/Purbayan2014/Hashing-Encryption)
+- 🤔 I’m looking for help with [Encryption](https://github.com/Purbayan2014/Hashing-Encryption) and [Exploitation Development](https://github.com/Purbayan2014/Exploitation-Deveploment)
 - 💬 Ask me about Cybersecurity,Machine learning and Cryptography
 - 📫 How to reach me: <p align="center">
   <a href="https://twitter.com/XNS_07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"    alt="Purbayan" height="30" width="30" /></a>
